@@ -15,17 +15,3 @@ Thoga Kade is a feature-rich command-line application designed to streamline the
 -   **Interactive CLI Interface**: A simple and intuitive user experience.
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
--   **Dart SDK**: Ensure Dart is installed on your machine.
-
-### Installation
-
-1. **Clone the Repository**
-    ```bash
-    git clone <repository-url>
-    cd thoga-kade
-    ```
